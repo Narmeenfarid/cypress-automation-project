@@ -34,16 +34,21 @@ The project follows a modular structure to ensure scalability and maintainabilit
 - npm (Node Package Manager)
 
 ### Steps
-1. Clone the repository
+1. Download the repository into zip file
 
-2. Install dependencies:
+2. Extract Zip file
+
+3. Open cmd into the project folder and Install dependencies:
 npm install
 
-3. Open Cypress
+4. Open Cypress
  npx cypress open
 
-4. Run the tests:
+5. Run the tests:
 Select the desired spec file from the Cypress Test Runner.
+
+7. Run tests from CLI
+   npx cypress run
 
 Test Cases
 1. User Signup and Login
