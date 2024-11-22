@@ -1,0 +1,20 @@
+{
+    "categories": [
+      {
+        "name": "Phones",
+        "id": "1",
+        "products": ["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6"]
+      },
+      {
+        "name": "Laptops",
+        "id": "2",
+        "products": ["Sony vaio i5", "MacBook air", "Dell i7 8gb"]
+      },
+      {
+        "name": "Monitors",
+        "id": "3",
+        "products": ["Apple monitor 24", "ASUS Full HD"]
+      }
+    ]
+  }
+  
