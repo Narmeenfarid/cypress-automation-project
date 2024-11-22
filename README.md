@@ -34,10 +34,7 @@ The project follows a modular structure to ensure scalability and maintainabilit
 - npm (Node Package Manager)
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-directory
+1. Clone the repository
 
 2. Install dependencies:
 npm install
